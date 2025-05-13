@@ -1,0 +1,12 @@
+import jax.random as random
+#################################
+# Discrete
+#################################
+
+# Categorical
+
+# Sample
+random.categorical()
+
+Scipy
+scipy.stats.multinomial
